@@ -2,7 +2,7 @@
 
 ### Software Engineer • Full-Stack Developer • AI & Machine Learning Enthusiast
 
-I'm a Computer Engineering student passionate about building software that solves real-world problems. My experience spans full-stack web development, machine learning, embedded systems, and cloud deployment, with a focus on creating scalable, secure, and user-centered applications.
+I'm a Computer Engineering graduate passionate about building software that solves real-world problems. My experience spans full-stack web development, machine learning, embedded systems, and cloud deployment, with a focus on creating scalable, secure, and user-centered applications.
 
 Currently, I'm building intelligent software, exploring AI-powered solutions, and contributing to projects that bridge software engineering with automation.
 
