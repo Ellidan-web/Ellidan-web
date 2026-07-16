@@ -1,6 +1,6 @@
 # Hi, I'm Ellidan Multo 👋
 
-### Software Engineer • Full-Stack Developer • AI & Machine Learning Enthusiast
+### Computer Engineer • AI & Machine Learning Enthusiast
 
 I'm a Computer Engineering graduate passionate about building software that solves real-world problems. My experience spans full-stack web development, machine learning, embedded systems, and cloud deployment, with a focus on creating scalable, secure, and user-centered applications.
 
